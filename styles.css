@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://cdn.shopify.com/s/files/1/0591/9493/articles/Annie-Easley.jpg?v=1618593246);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    background-color: aliceblue;
+    width: 200px;
+}
+
+h3{
+    color: aliceblue;
+    background-color: lightpink;
+    width: 500px;
+}
+
+hr{
+  width: 500px;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    background-color: aliceblue;
+}
+
+img{
+    width: 300px;
+    margin-right: 10%;
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 8px;
+    flex-direction: column;
+}
